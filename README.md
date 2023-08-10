@@ -1,5 +1,5 @@
 ### API version local
 
-- Clone về
-- Mở project
+- Clone git
+- Open project
 - npm start
